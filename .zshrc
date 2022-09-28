@@ -32,8 +32,6 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 
-export NPM_TOKEN=ZYRN9osnzC2GGdZi8Bpw
-
 # include Z
 . /usr/local/etc/profile.d/z.sh
 
